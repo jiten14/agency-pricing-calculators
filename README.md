@@ -6,6 +6,20 @@
 
 ---
 
+## 🔥 Start Here — Most Used Calculators
+
+If you're not sure where to begin, these are the most commonly used tools by agency founders:
+
+- 🔍 [SEO Pricing & Profit Calculator — USA](https://introdoor.com/tools/seo-pricing-profit-calculator-usa)
+- 🎨 [Web Design Pricing & Profit Calculator — USA](https://introdoor.com/tools/web-design-pricing-profit-calculator-usa)
+- 📢 [PPC Advertising Pricing & Profit Calculator — USA](https://introdoor.com/tools/ppc-advertising-pricing-profit-calculator-usa)
+- 🌐 [WordPress Development Pricing & Profit Calculator — India](https://introdoor.com/tools/wordpress-development-pricing-profit-calculator-india)
+- 🛍️ [Shopify Development Pricing & Profit Calculator — UK](https://introdoor.com/tools/shopify-development-pricing-profit-calculator-uk)
+
+All other country and service combinations are listed in the full directory below.
+
+---
+
 ## Why These Calculators Exist
 
 Most agency founders underprice their services — not because they lack skills, but because they lack clear numbers.
@@ -19,6 +33,25 @@ These calculators are built to help you:
 - ✅ **Price confidently** for clients in different countries and currencies
 
 Whether you're a solo freelancer or running a 10-person agency, getting your pricing right is the foundation of a sustainable business.
+
+For example, if you're pricing SEO services for US clients, you can use:
+https://introdoor.com/tools/seo-pricing-profit-calculator-usa
+
+---
+
+## 📊 What Good Pricing Looks Like
+
+Here's a simple example of what these calculators help you work out before sending a proposal:
+
+```
+Service: SEO monthly retainer (US client)
+Hours estimated: 20hrs/month
+Your cost (team + overhead): $1,800
+Recommended price: $4,000
+Profit: $2,200 (55% margin)
+```
+
+Most agencies send proposals without this clarity — and end up with projects that barely break even. These calculators take 2 minutes and give you the full picture upfront.
 
 ---
 
@@ -85,6 +118,9 @@ Price your PPC management services accurately — Google Ads, Meta Ads, LinkedIn
 | 🇬🇧 United Kingdom | £55–£160/hr | [PPC Calculator — UK](https://introdoor.com/tools/ppc-advertising-pricing-profit-calculator-uk) |
 | 🇺🇸 United States | $75–$200/hr | [PPC Calculator — USA](https://introdoor.com/tools/ppc-advertising-pricing-profit-calculator-usa) |
 
+If you manage Google Ads or Meta Ads for US clients and want to make sure you're not leaving money on the table, start with the PPC pricing calculator for the United States:
+https://introdoor.com/tools/ppc-advertising-pricing-profit-calculator-usa
+
 ---
 
 ### 🔍 SEO Pricing & Profit Calculators
@@ -103,6 +139,9 @@ Set the right SEO service prices — technical SEO audits, on-page optimisation,
 | 🇦🇪 UAE | AED80–AED220/hr | [SEO Calculator — UAE](https://introdoor.com/tools/seo-pricing-profit-calculator-uae) |
 | 🇬🇧 United Kingdom | £55–£160/hr | [SEO Calculator — UK](https://introdoor.com/tools/seo-pricing-profit-calculator-uk) |
 | 🇺🇸 United States | $75–$200/hr | [SEO Calculator — USA](https://introdoor.com/tools/seo-pricing-profit-calculator-usa) |
+
+If you're pricing SEO services for clients in the US — whether it's a monthly retainer, a technical audit, or a link building campaign — this calculator gives you a clear profit picture before you send the proposal:
+https://introdoor.com/tools/seo-pricing-profit-calculator-usa
 
 ---
 
@@ -144,7 +183,7 @@ Price social media management services correctly — content creation, schedulin
 
 ---
 
-### 🎨 Web Design Pricing & Profit Calculators
+### 🖥️ Web Design Pricing & Profit Calculators
 
 Estimate the right price for web design projects — landing pages, multi-page websites, UI/UX design, and design system work.
 
@@ -160,6 +199,9 @@ Estimate the right price for web design projects — landing pages, multi-page w
 | 🇦🇪 UAE | AED80–AED220/hr | [Web Design Calculator — UAE](https://introdoor.com/tools/web-design-pricing-profit-calculator-uae) |
 | 🇬🇧 United Kingdom | £55–£160/hr | [Web Design Calculator — UK](https://introdoor.com/tools/web-design-pricing-profit-calculator-uk) |
 | 🇺🇸 United States | $75–$200/hr | [Web Design Calculator — USA](https://introdoor.com/tools/web-design-pricing-profit-calculator-usa) |
+
+Quoting a website project for a US-based client? Use the web design pricing calculator to work out whether your quote actually covers your costs and delivers a healthy margin:
+https://introdoor.com/tools/web-design-pricing-profit-calculator-usa
 
 ---
 
@@ -228,17 +270,13 @@ No signup. No download. Works in your browser.
 
 ---
 
-## 🚀 Want to Run Your Entire Agency on Numbers?
+## 🏢 About These Tools
 
-These free calculators are part of **[AgencyOps](https://introdoor.com)** — a tool built for agency founders to track clients, projects, profitability, and revenue in one place.
+These calculators are part of a broader system designed to help agencies track profitability and pricing across their entire client base — not just estimate one project at a time.
 
-AgencyOps helps you answer:
-- Which clients are actually profitable?
-- Which projects are running over budget?
-- What's my agency's real monthly margin?
+If you find these tools useful and want to go deeper — tracking real project margins, client revenue, and team costs in one place — the full system is available at:
 
-**[Get AgencyOps — $299 one-time →](https://introdoor.com)**  
-One-time payment · Lifetime updates · Instant download · Free installation support
+https://introdoor.com
 
 ---
 
